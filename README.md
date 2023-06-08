@@ -1,5 +1,8 @@
-# 💫 About Me:
-Hi, I'm Naledi Dikgale,<br>a Software Engineer From Cape Town, South Africa<br><br>Undisputed Queen of DIY. <br>Skills: JavaScript, React, Databases, Ruby. <br>Looking for my next job.<br>Fun Fact: I snack on Olives! 😎<br><br>
+# 💫 About Me: Hi, I'm Naledi Dikgale,
+a Software Engineer From Cape Town, South Africa
+<br>Undisputed Queen of DIY. <br>
+Skills: JavaScript, React, Databases, Ruby. <br>Looking for my next job.<br>
+Fun Fact: I snack on Olives! 😎<br><br>
 
 
 ## 🌐 Socials:
