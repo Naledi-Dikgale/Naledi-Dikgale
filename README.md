@@ -1,6 +1,5 @@
 # 💫Hi, I'm Naledi Dikgale,
-a Software Engineer From Cape Town, South Africa
-<br>Undisputed Queen of DIY. <br>
+A Software Engineer From Cape Town, South Africa
 Skills: JavaScript, React, Databases, Ruby. <br>Looking for my next job.<br>
 Fun Fact: I snack on Olives! 😎<br><br>
 
