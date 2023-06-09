@@ -2,7 +2,8 @@
 A Software Engineer From Cape Town, South Africa
 
 I'm highly skilled in JavaScript, Ruby, Databases, React, and Redux.
-I have advanced communication skills and a great passion for collaboration. 
+
+<br>I have advanced communication skills and a great passion for collaboration. 
 
 <br>Looking for my next job.<br>
 Fun Fact: I snack on Olives! 😎<br><br>
