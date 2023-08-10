@@ -1,7 +1,7 @@
 # 💫Hi, I'm Naledi Dikgale,
 A Software Engineer From Cape Town, South Africa
 
-I'm highly skilled in JavaScript, React, Ruby, Databases, and Ruby on Rails.
+I'm fluent in JavaScript, React, Ruby, Databases, and Ruby on Rails.
 <br>I have advanced communication skills and a great passion for collaboration. 
 <br>Looking for my next exciting job.<br>
 Fun Fact: I snack on Olives!😎😋 <br><br>
