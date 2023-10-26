@@ -5,7 +5,7 @@ I'm fluent in JavaScript, React, Ruby, Databases, and Ruby on Rails.
 <br>I have advanced communication skills and a great passion for collaboration. 
 <br>Looking for my next exciting job.<br>
 Fun Fact: I snack on Olives! & I love dogs😎😎 <br>
-Favourite game: 30 Seconds<br>
+Favourite games: Charades & 30 Seconds<br>
 
 
 
