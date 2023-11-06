@@ -1,7 +1,7 @@
 # 💫Hi, I'm Naledi Dikgale,
 A Software Engineer From Cape Town, South Africa
 
-# 🚀 I'm fluent in:
+🚀 I'm fluent in:
 
    💻 JavaScript
    ⚛️ React
@@ -16,7 +16,7 @@ A Software Engineer From Cape Town, South Africa
     🫒 I snack on Olives!
    🐾 I love dogs 😎😎
 
-# 🎮 Favourite Games:
+🎮 Favourite Games:
 
     🎭 Charades
     ⏱️ 30 Seconds
