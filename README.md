@@ -14,7 +14,7 @@ A Software Engineer From Cape Town, South Africa
 🤓 Fun Facts:
 
     🫒 I snack on Olives!
-   🐾 I love dogs 😎😎
+    🐾 I love dogs 😎😎
 
 🎮 Favourite Games:
 
