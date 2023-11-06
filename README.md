@@ -1,26 +1,25 @@
 # 💫Hi, I'm Naledi Dikgale,
 A Software Engineer From Cape Town, South Africa
 
-🚀 I'm fluent in:
+#🚀 I'm fluent in:
 
-  - 💻 JavaScript
-  - ⚛️ React
-  - 💎 Ruby
-  - 🛢️ Databases
-  - 🚂 Ruby on Rails
+   💻 JavaScript
+   ⚛️ React
+   💎 Ruby
+   🛢️ Databases
+   🚂 Ruby on Rails
 
 🌐 With advanced communication skills and a passion for collaboration, I'm on the lookout for my next exciting job opportunity.
 
 🤓 Fun Facts:
 
-  - 🫒 I snack on Olives!
-  - 🐾 I love dogs 😎😎
+    🫒 I snack on Olives!
+   🐾 I love dogs 😎😎
 
-🎮 Favourite Games:
+#🎮 Favourite Games:
 
-  - 🎭 Charades
-  - ⏱️ 30 Seconds
-Feel free to adjust the emojis or formatting based on your preferences!
+    🎭 Charades
+    ⏱️ 30 Seconds
 
 
 
