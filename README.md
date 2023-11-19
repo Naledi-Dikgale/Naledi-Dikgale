@@ -1,5 +1,5 @@
 # 💫Hi, I'm Naledi Dikgale,
-A Software Engineer From Cape Town, South Africa
+A Software Engineer From Cape Town, South Africa.
 
 🚀 I'm fluent in:
 
