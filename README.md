@@ -15,6 +15,8 @@ A Software Engineer From Cape Town, South Africa.
 
     🫒 I snack on Olives!
     🐾 I love dogs 😎
+    🚗 Road trips are my go-to adventure; there's something magical about the open road.
+    ✈️ Constantly seeking new destinations to add to my ever-growing travel bucket list!
 
 🎮 Favourite Games:
 
